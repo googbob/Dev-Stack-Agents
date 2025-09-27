@@ -166,7 +166,11 @@ Think of this not as invoking a tool, but as delegating a task to a senior membe
 
 ## Contributing
 
-Contributions are welcomed! If you wish to add or improve an agent, please ensure it aligns with the core philosophy of principal-level expertise. Focus on strategic value, clear deliverables, and modern best practices.
+We welcome contributions that uphold the project's commitment to principal-level expertise. Whether you're adding a new agent or refining an existing one, please ensure your work emphasizes 
 
-## License
-This collection of agents is licensed under the [MIT License](LICENSE).
+strategic value, clear deliverables, and adherence to modern best practices. Well-documented, reproducible, and thoughtfully scoped contributions are especially appreciated.
+
+
+### License
+
+This repository is licensed under the MIT License, granting broad permission for use, modification, and distribution. Please review the terms before contributing.
